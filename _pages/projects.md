@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research undertaken besides the publications
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [While at IITM, Undergraduate projects (coming soon)]
 horizontal: false
 ---
 
