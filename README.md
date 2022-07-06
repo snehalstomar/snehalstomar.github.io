@@ -1,3 +1,3 @@
 ## My Home Page
 
-Click [here](snehalstomar.github.io) to visit.
+ Visit: ([snehalstomar.github.io](https://snehalstomar.github.io/)) 
